@@ -10,8 +10,12 @@ Exponinal growth of Data provides an extreme amount of Variations , Noise , Para
 So Represating Learning is the rich represation of the latent information of an object that is suitable for  machine trainable.
 
 
-<h2>Deep Learning has some features</h2><br>
-1. Contains  a deep architecure a lot of layer which are pluggble or hierarchically distributed 
+<h2>Deep Learning has some features</h2>
+
+1. Contains  a deep architecure a lot of layer which are pluggble or hierarchically distributed  
+
 2. Use Represating Learning for automatic feature extraction which is one of fundametnatal advantages of deep learning.
+
 3. Highly adaptable system that accpets the meaninful logical binding of a lot of layer and for a given homogeous inputs a sparse structure are activated .
+
 4. distributed processing is mainted in different layers to  reveal the crucial identical informations .
