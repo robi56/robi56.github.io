@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Representationg Learning : Theoritical Point of View"
 date: 2016-05-17
 ---
