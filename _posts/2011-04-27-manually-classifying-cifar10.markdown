@@ -6,7 +6,6 @@ excerpt: "CIFAR-10 is a popular dataset small dataset for testing out Computer V
 date:   2011-04-27 22:00:00
 ---
 
-### CIFAR-10
 
 Represating Learning deals with represetation of latent features extract from original row data or input information. This represation may be hierarchical, distributed, sparse , dense according to the information processing  system.  An information processing system which deals with image feature extraction  extracts the geometric orientation , correlation connectivity, color pixels sentitivity , modularization and connections of diffrent subcomponent the image . For Protein 3D Structute synthesis , the represention means that deals with the complex geometric 3d features that are related with 3d Objects with complex shapes. For Parsing a Text , distributed represtation  moslty deals with .
 Exponinal growth of Data provides an extreme amount of Variations , Noise , Parameters growth that suggest a  represation system that decomposes features  in a lightweigted and adaptable way before is to be fed with a machine learning system.  
