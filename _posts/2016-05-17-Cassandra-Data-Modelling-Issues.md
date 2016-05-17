@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Cassandra Data Modelling Issues"
 date: 2016-05-17
 ---
