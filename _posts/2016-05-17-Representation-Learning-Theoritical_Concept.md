@@ -26,10 +26,7 @@ So Represating Learning is the rich represation of the latent information of an 
 4. Distributed processing is maintained in different layers to  reveal the crucial identical informations.
 
 
-Goal? 
+<h2>Goal</h2>h2> 
 A good representation can adapt a lot of variations and noise and gives a better learning elements to a classifier system. 
 
-Techniques?
-
-a budle of layers one upon one to construct deep generative model. 
-One of the primary sucess of deep learning is using restricted boltzman machine and its stacks.
+Techniques? Like as ,a budle of layers one upon one to construct deep generative model. One of the primary sucess of deep learning is using restricted boltzman machine and its stacks.
