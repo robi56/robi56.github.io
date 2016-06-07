@@ -18,7 +18,7 @@ So Represating Learning is the rich represation of the latent information of an 
 
 Represetation Learning + Machine Learning => provides a research area Deep Learning  . 
 
-<h2>Deep Learning has some features</h2>
+<h3>Deep Learning has some features</h3>
 
 1. Contains  a deep architecure a lot of layer which are pluggble or hierarchically distributed  
 
@@ -29,7 +29,7 @@ Represetation Learning + Machine Learning => provides a research area Deep Learn
 4. Distributed processing is maintained in different layers to  reveal the crucial identical informations.
 
 
-<h2>Goal</h2>
+<h3>Goal</h3>
 A good representation can adapt a lot of variations and noise and gives a better learning elements to a classifier system. 
 
 
