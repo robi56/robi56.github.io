@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "Representationg Learning : Theoritical Point of View"
+title:  "Recurrent Neural Network, a bless to sequential data"
 excerpt: "CIFAR-10 is a popular dataset small dataset for testing out Computer Vision Deep Learning learning methods. We're seeing a lot of improvements. But what is the human baseline?"
 date:   2016-05-17 22:00:00
 ---
