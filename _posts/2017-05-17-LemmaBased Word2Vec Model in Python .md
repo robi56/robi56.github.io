@@ -8,7 +8,7 @@ date:   2017-02-04 16:00:00
 
 #### Lemma Based Word2Vec Model in Python 
 
-Sometimes Lemma based Word2Vec model could be considered for any specific application. like newspaper categorization  
+Sometimes Lemma based Word2Vec model can be considered for any specific application like newspaper categorization. 
 Steps:
 1. Read Files in a directory or Single File
 2. Lemmitized File removing stopwords
