@@ -72,7 +72,7 @@ for i in range(0, len(vocabs)):
 file.close()
 ```
 
-The source code is avaiable at https://github.com/robi56/WordEmbedding/blob/master/lemmabasedword2vec.py
+The source code is avaiable at [lemmabasedword2vec](https://github.com/robi56/WordEmbedding/blob/master/lemmabasedword2vec.py)
 
 
 
