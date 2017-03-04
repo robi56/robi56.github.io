@@ -2,11 +2,11 @@
 layout: post
 comments: true
 title:  "Lemma Based Word2Vec Model Generation"
-excerpt: "Lemma Based Word2Vec Model Generation"
+excerpt: "Lemma Based Word2Vec Model Generation: Words are in Lemma Form"
 date:   2017-02-04 16:00:00
 ---
 
-# Lemma Based Word2Vec Model in Python 
+#### Lemma Based Word2Vec Model in Python 
 
 Sometimes Lemma baded Word2Vec model could be considered for any specific application. like newspaper categorization  
 Steps:
@@ -17,7 +17,7 @@ Steps:
 5. Load model 
 
 
-## Read Data:
+#### Read Data:
 Download Link: http://mattmahoney.net/dc/text8.zip
 
 ```python
@@ -28,7 +28,7 @@ with open('/home/rabindra/PycharmProjects/WordEmbedding/Examples/text8') as f:
 ```
 
 
-## Lemmitize File removing stopwords:
+#### Lemmitize File removing stopwords:
 ```python
 lemmas =[]
 for line in lines:
@@ -39,18 +39,18 @@ for line in lines:
         lemmas.append(lemmatizer.lemmatize(token))
 ```
 
-## Save Output as Files in output directory or Single File:
+#### Save Output as Files in output directory or Single File:
 ```python
  file = open('result.txt', 'w')
  lemmatizedString = ' '.join(str(e) for e in lemmas)
  file.write(lemmatizedString)
  file.close()
 ```
-## Build and word2vec model:
+#### Build and word2vec model:
 ```python
 word2vec.word2vec('result.txt', 'model.bin', size=100, verbose=True)
 ```
-Load Model:
+#### Load Model:
 ```python
 model = word2vec.load('/home/rabindra/PycharmProjects/WordEmbedding/Examples/data1.bin')
 print model.vocab.size
@@ -61,7 +61,7 @@ print model.vocab
 vocabs = model.vocab
 values = model.vectors
 ```
-## The model information  can be saved in a form word<space>vector<newline>word<space><vector>...
+#### The model information  can be saved in a form word<space>vector<newline>word<space><vector>...
 ```python
 file = open('words.txt','w')
 for i in range(0, len(vocabs)):
